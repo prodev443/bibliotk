@@ -5,6 +5,4 @@
 2. Conexión a Internet, ya que se conecta a los CDN de Bootstrap y Axios
 
 ## Ejecución
-1. ```
-php -S localhost:8000
-```
+1. ``` php -S localhost:8000 ```
